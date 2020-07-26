@@ -1,3 +1,0 @@
-title=sud1
-author=datta
-orientation=portrait|landscape
